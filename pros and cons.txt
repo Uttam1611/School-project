@@ -1,0 +1,2 @@
+get data mein date nhi aa rhi in studentbtn.py
+teacher.py mein data nhi la pa rha dusri files mein se
