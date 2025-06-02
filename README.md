@@ -99,3 +99,5 @@ python main.py
 ## Author
 
 This project was created as a demo role-based school management system with Python and Tkinter, focusing on modular design and data export capabilities.
+Credit: Code Hub
+
