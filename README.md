@@ -2,7 +2,12 @@
 # School Management System (Tkinter + SQLite + Excel)
 
 A role-based school management system built with Python, Tkinter, SQLite, and Pandas for Excel export.
-
+### 1. Authentication & Role Selection
+<p align="center">
+  <img src="assets/im1.jpeg" width="32%">
+  <img src="assets/im2.jpeg" width="32%">
+  <img src="assets/im3.jpeg" width="32%">
+</p>
 This desktop app allows **Admins**, **Teachers**, and **Students** to manage and view school-related data including teacher records, student profiles, homework, announcements, and exam results — with support for downloading student results as Excel files.
 
 ---
@@ -43,6 +48,12 @@ This desktop app allows **Admins**, **Teachers**, and **Students** to manage and
 | Student | - View homework and announcements<br>- View academic results                                   |
 
 ---
+### 3. Student Dashboard & Results
+<p align="center">
+  <img src="assets/im7.jpeg" width="32%">
+  <img src="assets/im8.jpeg" width="32%">
+  <img src="assets/im9.jpeg" width="32%">
+</p>
 
 ## Result Export to Excel
 
@@ -51,6 +62,12 @@ This desktop app allows **Admins**, **Teachers**, and **Students** to manage and
 - Simple Tkinter button triggers file save dialog and Excel file export using Pandas
 
 ---
+### 2. Admin & Teacher Dashboard
+<p align="center">
+  <img src="assets/im4.jpeg" width="32%">
+  <img src="assets/im5.jpeg" width="32%">
+  <img src="assets/im6.jpeg" width="32%">
+</p>
 
 ## Installation & Setup
 
